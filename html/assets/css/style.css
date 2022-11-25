@@ -6,7 +6,14 @@
 @import "common.css";
 
 /* header */
-@import 'header.css';
+@import "header.css";
 
 /* main */
-@import 'main.css';
+@import "main.css";
+
+/* cont */
+@import "imagePage.css";
+@import "videoPage.css";
+@import "calendar.css";
+@import "details.css";
+@import "searchCont.css";

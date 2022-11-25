@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+/* fonts */
+@import "./assets/css/font.css";
+
+/* resets */
+@import "./assets/css/reset.css";
+@import "./assets/css/common.css";
+
+/* header */
+@import "./assets/css/header.css";
+
+/* main */
+@import "./assets/css/main.css";
+
+/* loader */
+@import "./assets/css/loader.css";
+
+/* cont */
+@import "./assets/css/imagePage.css";
+@import "./assets/css/videoPage.css";
+@import "./assets/css/calendar.css";
+@import "./assets/css/details.css";
+@import "./assets/css/searchCont.css";
