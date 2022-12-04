@@ -24,7 +24,7 @@ const Search = (props) => {
           <input
             type="search"
             className="birthday__input"
-            placeholder="1999-12-12"
+            placeholder="YYYY-MM-DD"
             title="년월일을 검색하세요"
             value={searchTerm || ""}
             onChange={(e) => setSearchTerm(e.target.value)}
